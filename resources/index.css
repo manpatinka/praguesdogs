@@ -357,9 +357,6 @@ footer {
 }
 
 @media only screen and (max-width: 1300px) {
-    #logo {
-        left: 3%;
-    }
     .collaboration a {
         font-size: 1rem;
     }
@@ -370,6 +367,9 @@ footer {
 }
 
 @media only screen and (max-width: 840px) {
+     #logo {
+        left: 3%;
+    }
     
     header, main, footer {
         width: 90%;
